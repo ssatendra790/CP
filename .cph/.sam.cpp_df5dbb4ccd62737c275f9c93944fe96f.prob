@@ -1,0 +1,1 @@
+{"name":"Local: sam","url":"c:\\Users\\ssate\\OneDrive\\Documents\\CP\\sam.cpp","tests":[{"id":1675514190619,"input":"3 3","output":""},{"id":1675514302052,"input":"2 5","output":""},{"id":1675514398249,"input":"2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ssate\\OneDrive\\Documents\\CP\\sam.cpp","group":"local","local":true}
