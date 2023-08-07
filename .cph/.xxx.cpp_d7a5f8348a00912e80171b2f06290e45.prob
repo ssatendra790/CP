@@ -1,0 +1,1 @@
+{"name":"Local: xxx","url":"c:\\Users\\ssate\\OneDrive\\Documents\\CP\\xxx.cpp","tests":[{"id":1690567008933,"input":"6\n5 5 3 6 5 3","output":"21"},{"id":1690568379072,"input":"5\n8 4 4 8 2","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ssate\\OneDrive\\Documents\\CP\\xxx.cpp","group":"local","local":true}
